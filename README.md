@@ -5,7 +5,7 @@
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
 
-## Create a new project based on the QuickStart
+## Clone this repository
 
 Clone this repo:
 ```shell
